@@ -6,7 +6,12 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		042BDD312D76594B0064C6FA /* WhatsApp_Image_2025-02-12_at_11.57.10_AM-removebg-preview-fotor-20250301143631.png in Resources */ = {isa = PBXBuildFile; fileRef = 042BDD302D76594B0064C6FA /* WhatsApp_Image_2025-02-12_at_11.57.10_AM-removebg-preview-fotor-20250301143631.png */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
+		042BDD302D76594B0064C6FA /* WhatsApp_Image_2025-02-12_at_11.57.10_AM-removebg-preview-fotor-20250301143631.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "WhatsApp_Image_2025-02-12_at_11.57.10_AM-removebg-preview-fotor-20250301143631.png"; sourceTree = "<group>"; };
 		04D6F6852D7650C900E28824 /* rep-IOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "rep-IOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -47,6 +52,7 @@
 			children = (
 				04D6F6872D7650C900E28824 /* rep-IOS */,
 				04D6F6862D7650C900E28824 /* Products */,
+				042BDD302D76594B0064C6FA /* WhatsApp_Image_2025-02-12_at_11.57.10_AM-removebg-preview-fotor-20250301143631.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -122,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				042BDD312D76594B0064C6FA /* WhatsApp_Image_2025-02-12_at_11.57.10_AM-removebg-preview-fotor-20250301143631.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
